@@ -19,7 +19,6 @@ def log_in_filmweb(browser):
 
 def try_scrape(action):
     try:
-        action
         return action
     except: pass
 
